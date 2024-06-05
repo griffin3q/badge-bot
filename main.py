@@ -2,6 +2,8 @@ import os
 import discord
 from discord.ext import commands
 
+#Great for discord dev badge!
+
 TOKEN = 'Your bot token here!'
 
 intents = discord.Intents.default()
